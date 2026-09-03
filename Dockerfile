@@ -1,2 +1,2 @@
-FROM mhdzumair/mediaflow-proxy:latest
+FROM https://github.com/mhdzumair/mediaflow-proxy:latest
 EXPOSE 8888
