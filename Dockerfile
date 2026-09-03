@@ -1,2 +1,2 @@
-FROM https://github.com/mhdzumair/mediaflow-proxy-light:latest
+FROM https://github.com/mhdzumair/mediaflow-proxy-light
 EXPOSE 8888
